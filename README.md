@@ -49,8 +49,6 @@ to-do-list/
 │  ├─ index.css
 │  ├─ main.jsx
 │  └─ theme.js
-├─ docs/
-│  └─ PDF_CONTENIDO.md
 ├─ package.json
 ├─ vite.config.js
 └─ eslint.config.js
