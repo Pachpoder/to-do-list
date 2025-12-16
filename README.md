@@ -80,15 +80,11 @@ to-do-list/
    - Build command: `npm run build`  
    - Publish directory: `dist`
 
-- Link de Deploy: https://TU-LINK-AQUI.vercel.app  
-- Repositorio: https://github.com/TU-USUARIO/todo-pwa
+- Link de Deploy: https://to-do-list-pi-seven-91.vercel.app/
+- Repositorio: https://github.com/Pachpoder/to-do-list
 
 ## Cómo instalar la PWA
 - Android/Chrome: abre el sitio → menú del navegador → “Agregar a pantalla principal”.  
 - Desktop (Chrome/Edge): abre el sitio → icono de instalar en barra de direcciones → confirmar.  
 - Una vez instalada, funciona en ventana standalone con iconos `/public/pwa-192.png` y `/public/pwa-512.png`.
 
-## Capturas (placeholders)
-- ![Home](docs/screenshots/home.png)
-- ![Lista](docs/screenshots/tasks.png)
-- ![Detalle](docs/screenshots/detail.png)
