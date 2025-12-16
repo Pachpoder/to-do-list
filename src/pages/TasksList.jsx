@@ -92,7 +92,7 @@ const TasksList = () => {
             sx={{
               width: '100%',
               mx: 0,
-              borderRadius: theme.shape.borderRadius,
+              borderRadius: 0,
               overflow: 'hidden',
               px: { xs: 0.5, sm: 1 },
               py: { xs: 0.5, sm: 1 },

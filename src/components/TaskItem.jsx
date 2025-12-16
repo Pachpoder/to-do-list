@@ -82,7 +82,7 @@ const TaskItem = ({ task, onToggle, onDelete, onSelect }) => {
         onClick={handleSelect}
         sx={{
           py: 1.5,
-          borderRadius: theme.shape.borderRadius,
+          borderRadius: 0,
           pr: 12,
           '&:hover': {
             backgroundColor: alpha(theme.palette.primary.main, 0.06),
